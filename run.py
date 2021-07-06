@@ -1,4 +1,4 @@
-from own-currency import app
+from gamecoin import app
 
 if __name__ == "__main__":
 
